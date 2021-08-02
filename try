@@ -1,0 +1,30 @@
+{
+    "name": "CashinBid Main",
+    "type": "BEP20",
+    "symbol": "CIBC",
+    "decimals": 18,
+    "website": "https://cashinbidmain.org/",
+    "description": "CashinBid Main [CIBC] was built to give you the crypto you deserve! CIBC is driven to succeed as both a store of value and medium of exchange.",
+    "explorer": "https://bscscan.com/token/0x493f2ea0361aa829d67250f401097aee38cac9af",
+    "status": "active",
+    "id": "0x493f2ea0361aa829d67250f401097aee38cac9af",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/bid_cash"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/CashinBidMain"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/CIBC_official"
+        },
+        {
+            "name": "instagram",
+            "url": "https://instagram.com/cashinbid"
+        },
+
+    ]
+}
